@@ -31,7 +31,7 @@ python3.9 -m pip install scipy
 import MRCaptcha
 
 # Count specifies number of generated captcha samples
-generate_captcha(count=10)
+MRCaptcha.generate_captcha(count=10)
 ```
 
 *Note:* This method saves all images during generation steps. All samples is saved into separated folders. Final results is saved into /lined
@@ -42,7 +42,7 @@ generate_captcha(count=10)
 import MRCaptcha
 
 # Count specifies number of generated symbols for each from list
-generate_symbols(count=10)
+MRCaptcha.generate_symbols(count=10)
 ```
 
 ## License
