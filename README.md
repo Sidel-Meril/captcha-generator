@@ -2,8 +2,12 @@
 
 This small project provides Mail.ru Captcha Generator with using NumPy and SciPy for model training purposes
 
-![Original](/results/original/1.jfif)
-![Generated](/results/generated/distorted/1Ar4DO.png)
+Original |  Generated
+:-------------------------:|:-------------------------:
+<img src="/results/original/1.jfif"  width="20%">  |  <img src="/results/generated/distorted/1a8JK2.png"  width="20%">
+
+
+
 
 # Usage
 
