@@ -4,7 +4,7 @@ This small project provides Mail.ru Captcha Generator with using NumPy and SciPy
 
 Original |  Generated
 :-------------------------:|:-------------------------:
-<img src="/results/original/1.jfif"  width="20%">  |  <img src="/results/generated/distorted/1a8JK2.png"  width="20%">
+<img src="/results/original/1.jfif"  width="80%">  |  <img src="/results/generated/distorted/1a8JK2.png"  width="80%">
 
 
 
