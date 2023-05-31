@@ -181,6 +181,3 @@ samples/
 sine/
 examplesjpeg/
 tmp/
-*.txt
-*.db
-*.json

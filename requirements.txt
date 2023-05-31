@@ -1,0 +1,10 @@
+pytesseract
+opencv-python
+lxml
+beautifulsoup4
+requests
+selenium
+selenium_stealth
+fake_headers
+easyocr
+tensorflow
