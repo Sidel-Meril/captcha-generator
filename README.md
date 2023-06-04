@@ -14,7 +14,7 @@ Original |  Generated
 1. Clone repo
 
 ```bash
-git clone -b main https://github.com/sidel-meril/mru-auto.git
+git clone -b main https://github.com/sidel-meril/captcha-generator.git
 ```
 
 2. Install NumPy and SciPy
